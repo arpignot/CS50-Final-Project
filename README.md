@@ -16,5 +16,5 @@ Solump is a simple and practic online rich text editor.
 * Color schemes taken from: [Color Hex](https://www.color-hex.com/color-palettes/)
 * Fonts taken from [Google Fonts](https://fonts.google.com)
 * Icons taken from [Font Awesome v4.7.0](https://fontawesome.com/v4.7.0/icons/)
-* Code and design learned from CS50's Web Track's distribution code in 2020
-* Web APIs and CSS learned from [W3Schools](https://www.w3schools.com/) and [Mozilla Developer](https://developer.mozilla.org/)
+* Code and design learned from CS50 Web Track's distribution code in 2020
+* Web APIs/DOM learned from [W3Schools](https://www.w3schools.com/) and [Mozilla Developer](https://developer.mozilla.org/)
